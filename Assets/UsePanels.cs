@@ -45,7 +45,7 @@ public class UsePanels : MonoBehaviour
 
     public void ResetPanel()
     {
-        currentPanel = 0;
+        currentPanel = 1;
     }
 
 }
